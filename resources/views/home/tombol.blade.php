@@ -1,0 +1,2 @@
+<a href="#" data-id="{{ $data->id }}" class="btn btn-warning btn-sm btn-edit"><i class="fa fa-edit"></i></a>
+<a href="#" data-id="{{ $data->id }}" class="btn btn-danger btn-sm btn-hapus" id="btn-hapus"><i class="fa fa-trash"></i></a>
